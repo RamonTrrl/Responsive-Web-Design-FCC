@@ -1,8 +1,8 @@
 # 🪄💻 Responsive-Web-Design-FCC
 
-## 🛖 Sobre este repo
+## 🛖 Acerca de... 
 
-Este debe ser uno de los repos a los que les tengo enorme cariño — fue uno de los primeros emprendimientos que inicié en estas hierbitas de los lenguajes estructurados. Me parecía fascinante todo el front end que se realiza para dar vida a una simple página web, y su ecosistema principal está estructurado con los lenguajes HTML y CSS. Bueno, más que lenguajes propios de programación son una especie de "marcado de texto"... bueno, tanto lo primero como lo último y como ya es una característica mía, pues no tengo la mínima idea de lo que pueda significar 🤣, en fin.
+Este debe ser uno de los repos a los que les tengo enorme cariño 💘, fue uno de los primeros emprendimientos que inicié en estas hierbitas de los lenguajes estructurados. Me parecía fascinante todo el front end que se realiza para dar vida a una simple página web, y su ecosistema principal está estructurado con los lenguajes HTML y CSS. Bueno, más que lenguajes propios de programación son una especie de "marcado de texto"... bueno, tanto lo primero como lo último y como ya es una característica mía, pues no tengo la mínima idea de lo que pueda significar 🤣, en fin.
 
 ---
 
@@ -20,15 +20,15 @@ Entonces, mientras que un buen HTML le da la arquitectura sólida y robusta, el 
 
 ---
 
-## 💀 El proceso de aprendizaje
+## 💀 Mi larguííí...sima curva de aprendizaje
 
-Lo aprendí desde cero, una y otra vez repitiendo y estudiando palmo a palmo, volviendo a repetir una y otra vez, pues *"es en la repetición que se encuentra el gusto"* 😍. Vamos, no es cierto — repetía una y mil veces dado que soy rematadamente dummie 💀, por lo que no había más opción.
+Lo aprendí desde cero, una y otra vez repitiendo y estudiando palmo a palmo, volviendo a repetir una y otra vez, pues *"es en la repetición que se encuentra el gusto"* 😍. Vamos, no es cierto — repetía una y mil veces dado que soy ***redomadamente dummie*** 💀, por lo que no había más opción.
 
-Bueno, el hecho es que pasados... como tres años, por fin terminé mi primer desafío de la noble plataforma de FCC, y producto de ese pequeño esfuerzo allí está mi papelito sellado y refrendado por todos los escribanos de esa genial plataforma, que dan testimonio y dan fe de que en verdadito soy menos tonto de lo que parezco 🎓😄.
+Bueno, el hecho es que pasados... como tres años, por fin terminé mi primer desafío de la noble plataforma de FCC, y producto de ese pequeño esfuerzo allí está mi papelito sellado y refrendado por todos los escribanos de esa genial plataforma, que dan testimonio y dan fe de que **en verdadito soy menos tonto de lo que parezco** 🎓😄.
 
 ---
 
-## 🪄 Proyectos
+## 🪄 Los Cinco Mejores Proyectos del Mundo 💯
 
 | Proyecto | Repositorio |
 |---|---|
@@ -40,4 +40,4 @@ Bueno, el hecho es que pasados... como tres años, por fin terminé mi primer de
 
 ---
 
-📜 [Ver certificado Responsive Web Design](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/desarrollo/certificado-diseno-web-responsive.png)
+📜 [Ver mi "hyper" certificado Responsive Web Design](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/desarrollo/certificado-diseno-web-responsive.png)
