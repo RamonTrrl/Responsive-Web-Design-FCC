@@ -1,14 +1,43 @@
-# Responsive-Web-Design-FCC
-Este debe ser uno de los repos a los que les tengo enorme cariño, fue uno de los primeros emprendimientos  
-que inicié en estas hierbitas de los lenguajes estructurados. Me estaba iniciando en el diseño de páginas web y  
-dentro de ellas está el HTML y el CSS que son su corazón, por lo que estan le suministran ese alito o soplo de vida que hacen
-que cualquier pagina web sea muy cool. Y pues yo simplemnete quede maravillado y perdidamente enamorado... Inicie con html y 
-ma parecia fascinate cada etiquta, cada estructura me parecia una delicia, desde el inicio llamado a un doctype
-para que la pagina sepa y conozca el medio o su ecositema donde deberia de actuar, luego laetructura tras bastidores para llamar
-a todo lo involucrados que deberian acudir para estructuras ry dar forma  ala pagina. LÑuego ya defibido todo ello pues epezar a labarar
-con el body y todo lo que deberi de llevrar, para finalmete terminar con su footer. Y todo esto me parecia magico, maraviloso y solo era 
-la estructura, o co decian los entendodos en estas hierbitas era solo la estructura del edificio pues el csss eso si era como los acabado
-y todos lo adornito que eberia de llevara esa estructura para que se parezva auna verdera construcccion hecha y derecha
+# 🪄💻 Responsive-Web-Design-FCC
 
+## 🛖 Sobre este repo
 
+Este debe ser uno de los repos a los que les tengo enorme cariño — fue uno de los primeros emprendimientos que inicié en estas hierbitas de los lenguajes estructurados. Me parecía fascinante todo el front end que se realiza para dar vida a una simple página web, y su ecosistema principal está estructurado con los lenguajes HTML y CSS. Bueno, más que lenguajes propios de programación son una especie de "marcado de texto"... bueno, tanto lo primero como lo último y como ya es una característica mía, pues no tengo la mínima idea de lo que pueda significar 🤣, en fin.
 
+---
+
+## 🏗️ La arquitectura del "edificio web"
+
+La documentación, por cierto, refiere que precisamente el "lenguaje de marcado" le da la estructura necesaria para hacerla robusta y poderosa. En otras palabras y usando términos más conocidos, vendrían a ser la base, las columnas y los planos sobre los que se edificará el "edificio web" 🏗️... bueno, en mi caso una simple chocita ⛺.
+
+---
+
+## 🪄 La magia que me enamoró
+
+Pero ¿qué fue lo que me llamó la atención de todo esto? Pues es la magia que ocurre para que aparezca un texto en tal o cual lado, el uso de cierto tipo de fuentes, el uso de los colores y todo su espectro en código, lo cual resultaba simplemente maravilloso. Era como estar en un mundo de ensueños y con cada pase mágico de esa varita mágica del lenguaje 🪄, apareciera de súbito sendas maravillas. Y si lo unimos a la manipulación de imágenes pues es el cielo en la tierra... o en mi ordenador 💻✨
+
+Entonces, mientras que un buen HTML le da la arquitectura sólida y robusta, el CSS está allí para darle ese aliento de vida, de color — es nuestro caso, como el producto es una humilde chocita ⛺ pues le da "el toque" mediante los mejores y finos acabados que el mercado digital nos pueda proveer.
+
+---
+
+## 💀 El proceso de aprendizaje
+
+Lo aprendí desde cero, una y otra vez repitiendo y estudiando palmo a palmo, volviendo a repetir una y otra vez, pues *"es en la repetición que se encuentra el gusto"* 😍. Vamos, no es cierto — repetía una y mil veces dado que soy rematadamente dummie 💀, por lo que no había más opción.
+
+Bueno, el hecho es que pasados... como tres años, por fin terminé mi primer desafío de la noble plataforma de FCC, y producto de ese pequeño esfuerzo allí está mi papelito sellado y refrendado por todos los escribanos de esa genial plataforma, que dan testimonio y dan fe de que en verdadito soy menos tonto de lo que parezco 🎓😄.
+
+---
+
+## 🪄 Proyectos
+
+| Proyecto | Repositorio |
+|---|---|
+| Survey Form | [Ver repo](https://github.com/RamonTrrl/SurveyFCC) |
+| Tribute Page | [Ver repo](https://github.com/RamonTrrl/pagina-homenaje) |
+| Technical Documentation Page | [Ver repo](https://github.com/RamonTrrl/pagina-Desapuntes) |
+| Product Landing Page | [Ver repo](https://github.com/RamonTrrl/pagina-landing) |
+| Personal Portfolio Webpage | [Ver repo](https://github.com/RamonTrrl/portfolio) |
+
+---
+
+📜 [Ver certificado Responsive Web Design](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/desarrollo/certificado-diseno-web-responsive.png)
