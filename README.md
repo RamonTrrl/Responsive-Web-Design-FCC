@@ -30,7 +30,7 @@ Bueno, el hecho es que pasados... como tres años, por fin terminé mi primer de
 
 ---
 
-## 🪄 Los Cinco Mejores Proyectos del Mundo (Letra chiquita: de mi insignificante epro propio mundo)💯
+## 🪄 Los Cinco Mejores Proyectos del Mundo (Letra chiquita: de mi insignificante y singular mundo)💯
 
 | Proyecto | Repositorio |
 |---|---|
