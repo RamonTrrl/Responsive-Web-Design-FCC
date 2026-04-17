@@ -22,7 +22,7 @@ Entonces, mientras que un buen HTML le da la arquitectura sólida y robusta, el 
 
 ---
 
-## 💀 Mi larguííí...sima curva de aprendizaje
+## 💀 Mi larguííí...ísima curva de aprendizaje
 
 Lo aprendí desde cero, una y otra vez repitiendo y estudiando palmo a palmo, volviendo a repetir una y otra vez, pues *"es en la repetición que se encuentra el gusto"* 😍. Vamos, no es cierto — repetía una y mil veces dado que soy ***redomadamente dummie*** 💀, por lo que no había más opción.
 
