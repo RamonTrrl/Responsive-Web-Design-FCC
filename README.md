@@ -2,13 +2,13 @@
 
 ##  Acerca de... 
 
-Este debe ser uno de los repos a los que les tengo enorme cariño 💘, fue uno de los primeros emprendimientos que inicié en estas hierbitas de los lenguajes estructurados. Me parecía fascinante todo el front end que se realiza para dar vida a una simple página web, y su ecosistema principal está estructurado con los lenguajes HTML y CSS. Bueno, más que lenguajes propios de programación son una especie de "marcado de texto"... bueno, tanto lo primero como lo último y como ya es una característica mía, pues no tengo la mínima idea de lo que pueda significar 🤣, en fin.
+Este debe ser uno de los repos a los que les tengo enorme cariño 💘, fue uno de los primeros emprendimientos que inicié en estas hierbitas de los lenguajes estructurados. Me parecía fascinante todo el front end que se realiza para dar vida a una simple página web, y su ecosistema principal está estructurado con los lenguajes HTML y CSS. Bueno, más que lenguajes propios de programación son una especie de "marcado de texto"... bueno, tanto lo primero como lo último señalado en estas líneas, pues no tengo la mínima idea de lo que pueda significar 🤣. (Letra chiquita: vaya... no es una novedad, es una característica dintintiva en ti mi buen "BRO" !!) 
 
 ---
 
 ## 🏗️ La arquitectura del "edificio web"
 
-La documentación, por cierto, refiere que precisamente el "lenguaje de marcado" le da la estructura necesaria para hacerla robusta y poderosa. En otras palabras y usando términos más conocidos, vendrían a ser la base, las columnas y los planos sobre los que se edificará el "edificio web" 🏗️... bueno, en mi caso una simple chocita ⛺.
+La documentación, por cierto, refiere que precisamente el "lenguaje de marcado" le da la estructura necesaria a una página web, para hacerla robusta y poderosa. En otras palabras y usando términos más cristianos y familiares, vendrían a ser la base, las columnas y por supesto, los planos sobre los que se edificará el "edificio web" 🏗️... bueno, en mi caso una simple chocita ⛺.
 
 ---
 
@@ -18,7 +18,7 @@ La documentación, por cierto, refiere que precisamente el "lenguaje de marcado"
 </h2>
 Pero ¿qué fue lo que me llamó la atención de todo esto? Pues es la magia que ocurre para que aparezca un texto en tal o cual lado, el uso de cierto tipo de fuentes, el uso de los colores y todo su espectro en código, lo cual resultaba simplemente maravilloso. Era como estar en un mundo de ensueños y con cada pase mágico de esa varita mágica del lenguaje 🪄, apareciera de súbito sendas maravillas. Y si lo unimos a la manipulación de imágenes pues es el cielo en la tierra... o en mi ordenador 💻✨
 
-Entonces, mientras que un buen HTML le da la arquitectura sólida y robusta, el CSS está allí para darle ese aliento de vida, de color — es nuestro caso, como el producto es una humilde chocita ⛺ pues le da "el toque" mediante los mejores y finos acabados que el mercado digital nos pueda proveer.
+Entonces, mientras que un buen HTML le da la arquitectura sólida y robusta, el CSS está allí para darle ese aliento de vida, de color — es nuestro caso, como nuestro "rascacielo" es una humilde chocita ⛺ pues le da "el toque", mediante los mejores y finos acabados que el mercado digital nos pueda proveer.
 
 ---
 
@@ -26,7 +26,7 @@ Entonces, mientras que un buen HTML le da la arquitectura sólida y robusta, el 
 
 Lo aprendí desde cero, una y otra vez repitiendo y estudiando palmo a palmo, volviendo a repetir una y otra vez, pues *"es en la repetición que se encuentra el gusto"* 😍. Vamos, no es cierto — repetía una y mil veces dado que soy ***redomadamente dummie*** 💀, por lo que no había más opción.
 
-Bueno, el hecho es que pasados... como tres años, por fin terminé mi primer desafío de la noble plataforma de FCC, y producto de ese pequeño esfuerzo allí está mi papelito sellado y refrendado por todos los escribanos de esa genial plataforma, que dan testimonio y dan fe de que **en verdadito soy menos tonto de lo que parezco** 🎓😄.
+Bueno, el hecho es que pasados... como tres años, por fin terminé mi primer desafío de la noble plataforma de FCC, y producto de ese pequeño esfuerzo, allí está mi papelito sellado y refrendado por todos los escribanos de esa genial plataforma, que dan testimonio y dan fe de que **en verdadito soy menos tonto de lo que parezco** 🎓😄.
 
 ---
 
