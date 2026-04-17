@@ -1,6 +1,6 @@
-# 🪄💻 Responsive-Web-Design-FCC
+# 💻 Responsive-Web-Design-FCC
 
-## 🛖 Acerca de... 
+##  Acerca de... 
 
 Este debe ser uno de los repos a los que les tengo enorme cariño 💘, fue uno de los primeros emprendimientos que inicié en estas hierbitas de los lenguajes estructurados. Me parecía fascinante todo el front end que se realiza para dar vida a una simple página web, y su ecosistema principal está estructurado con los lenguajes HTML y CSS. Bueno, más que lenguajes propios de programación son una especie de "marcado de texto"... bueno, tanto lo primero como lo último y como ya es una característica mía, pues no tengo la mínima idea de lo que pueda significar 🤣, en fin.
 
@@ -12,7 +12,7 @@ La documentación, por cierto, refiere que precisamente el "lenguaje de marcado"
 
 ---
 
-## 🪄 La magia que me enamoró
+## <img src="https://raw.githubusercontent.com/RamonTrrl/Responsive-Web-Design-FCC/main/html-icon.png" height="30" style="vertical-align:middle"/> La magia que me enamoró
 
 Pero ¿qué fue lo que me llamó la atención de todo esto? Pues es la magia que ocurre para que aparezca un texto en tal o cual lado, el uso de cierto tipo de fuentes, el uso de los colores y todo su espectro en código, lo cual resultaba simplemente maravilloso. Era como estar en un mundo de ensueños y con cada pase mágico de esa varita mágica del lenguaje 🪄, apareciera de súbito sendas maravillas. Y si lo unimos a la manipulación de imágenes pues es el cielo en la tierra... o en mi ordenador 💻✨
 
