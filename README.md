@@ -18,7 +18,7 @@ La documentación, por cierto, refiere que precisamente el "lenguaje de marcado"
 </h2>
 Pero ¿qué fue lo que me llamó la atención de todo esto? Pues es la magia que ocurre para que aparezca un texto en tal o cual lado, el uso de cierto tipo de fuentes, el uso de los colores y todo su espectro en código, lo cual resultaba simplemente maravilloso. Era como estar en un mundo de ensueños y con cada pase mágico de esa varita mágica del lenguaje 🪄, apareciera de súbito sendas maravillas. Y si lo unimos a la manipulación de imágenes pues es el cielo en la tierra... o en mi ordenador 💻✨
 
-Entonces, mientras que un buen HTML le da la arquitectura sólida y robusta, el CSS está allí para darle ese aliento de vida, de color — es nuestro caso, como nuestro "rascacielo" es una humilde chocita ⛺ pues le da "el toque", mediante los mejores y finos acabados que el mercado digital nos pueda proveer.
+Entonces, mientras que un buen HTML le da la arquitectura sólida y robusta, el CSS está allí para darle ese aliento de vida, de color — es nuestro caso, como [nuestro "rascacielo" es una humilde chocita](https://cronicasdeilusos.blogspot.com/2022/06/el-depade-mis-suenos.html) ⛺ pues le da "el toque", mediante los mejores y finos acabados que el mercado digital nos pueda proveer.
 
 ---
 
