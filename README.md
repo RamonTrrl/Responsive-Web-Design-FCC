@@ -26,7 +26,7 @@ Entonces, mientras que un buen HTML le da la arquitectura sólida y robusta, el 
 
 Lo aprendí desde cero, una y otra vez repitiendo y estudiando palmo a palmo, volviendo a repetir una y otra vez, pues *"es en la repetición que se encuentra el gusto"* 😍. Vamos, no es cierto — repetía una y mil veces dado que [soy ***redomadamente dummie*** 💀](https://cronicasdeilusos.blogspot.com/2026/01/manual-de-un-gran-tonto.html), por lo que no había más opción.
 
-Bueno, el hecho es que pasados... como tres años, por fin terminé mi primer desafío de la noble plataforma de FCC, y producto de ese pequeño esfuerzo, allí está mi papelito sellado y refrendado por todos los escribanos de esa genial plataforma, que dan testimonio y dan fe de que **en verdadito soy menos tonto de lo que parezco** 🎓😄.
+Bueno, el hecho es que pasados... como tres años, por fin terminé mi primer desafío de la noble plataforma de FCC, y producto de ese pequeño esfuerzo, allí está mi papelito sellado y refrendado por todos los escribanos de esa genial plataforma, que dan testimonio y dan fe de que **en verdadito soy menos tonto de lo que parezco** ... si, si, lo que tu digas!!🎓😄.
 
 ---
 
