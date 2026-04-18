@@ -2,7 +2,7 @@
 
 ##  Acerca de... 
 
-Este debe ser uno de los repos a los que les tengo enorme cariño 💘, fue uno de los [primeros emprendimientos que inicié en estas hierbitas de los lenguajes estructurados](https://cronicasdeilusos.blogspot.com/2025/04/un-script-vista-por-un-novato.html). Me parecía fascinante todo el front end que se realiza para dar vida a una simple página web, y su ecosistema principal está estructurado con los lenguajes HTML y CSS. Bueno, más que lenguajes propios de programación son una especie de "marcado de texto"... bueno, tanto lo primero como lo último señalado en estas líneas, pues no tengo la mínima idea de lo que pueda significar 🤣. (Letra chiquita: vaya... no es una novedad, es una característica dintintiva en ti mi buen "BRO" !!) 
+Este debe ser uno de los repos a los que les tengo enorme cariño 💘, ya que fue uno de los [primeros emprendimientos que inicié en estas hierbitas de los lenguajes estructurados](https://cronicasdeilusos.blogspot.com/2025/04/un-script-vista-por-un-novato.html). Me parecía fascinante todo el front end que se realiza para dar vida a una simple página web, y su ecosistema principal está estructurado con los lenguajes HTML y CSS. Bueno, más que lenguajes propios de programación son una especie de "marcado de texto"... bueno, tanto lo primero como lo último señalado en estas líneas, pues no tengo la mínima idea de lo que pueda significar 🤣. (Letra chiquita: vaya... no es una novedad, es una característica dintintiva en ti mi buen "BRO" !!) 
 
 ---
 
